@@ -1,2 +1,2 @@
 # terraform-oci
-Learning terraform withing oci
+Learning terraform on oci
